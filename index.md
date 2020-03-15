@@ -1,10 +1,10 @@
 # Spencer Clark
+Experienced mobile game developer - 8 years in mobile games
 
  **B<span>.</span>Sc. Honours, Computer Science**; University of Saskatchewan (2012)
 
- 8 years of industry experience in mobile games
+ ✉ <spencer.d.clark@protonmail.com>
 
- ✉ <spencer.d.clark@protonmail.com>\
  ☎ +1 (306) 290-5462
 
 ----
@@ -28,7 +28,7 @@
 ----
 
 ## Work Experience - Noodlecake Studios (2012-Present)
-### Technical Lead (2019-Present)
+### Technical Lead (_Golf Blitz_) (2019-Present)
 - Design, implement & maintain game features and systems
 - Make high-level technical design/architecture decisions
 - Mentor & train junior programmers
