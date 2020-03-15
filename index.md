@@ -1,11 +1,11 @@
 # Spencer Clark
 
  **B<span>.</span>Sc. Honours, Computer Science**; University of Saskatchewan (2012)
-\
+
  8 years of industry experience in mobile games
 
-> ✉ <spencer.d.clark@protonmail.com>\
-> ☎ +1 (306) 290-5462
+ ✉ <spencer.d.clark@protonmail.com>\
+ ☎ +1 (306) 290-5462
 
 ----
 
