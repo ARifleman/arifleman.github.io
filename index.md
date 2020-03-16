@@ -10,7 +10,7 @@ Experienced mobile game developer - 8 years in mobile games
 ----
 
 ## Programming Languages & Technologies
-### Languages
+### Programming Languages
 - Objective-C
 - C#
 - Java
@@ -81,8 +81,27 @@ Experienced mobile game developer - 8 years in mobile games
 >   This was a proof-of-concept / stress-test project used to test Noodlecake's internally developed netcode framework in a live setting. It is a free to play four-player realtime multiplayer game.
 
 >### _Super Stickman Golf 3 ([Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.ssg3)/[App Store](https://apps.apple.com/us/app/super-stickman-golf-3/id1002132680))_ 2016
->The third iteration of the companies flagship product. The game is written in Objective-C using the Cocos2d-iphone game framework.
+>The third iteration of the company's flagship product. The game is written in Objective-C using the Cocos2d-iphone game framework.
 
 >### _Peg Ballet ([App Store](https://apps.apple.com/us/app/peg-ballet/id1043261334))_ 2015
 >   Started as a pet project for Extra Life in 2015, _Peg Ballet_ is a simple couch multiplayer game where players control a ball as it drops through a pegboard and try to get their ball into a basket to earn points. It was released for AppleTV in 2015.
 
+----
+
+## More About Me
+### Career Growth
+I'm interested in continuing to grow as a programmer and also as a team member. I love getting stuck into hard problems, and I really enjoy learning new technologies when I get the chance. Part of what is great about game development is that the problems are almost always novel in some way. I have been fortunate enough to have attended GDC a few times and always come back re-energized and wanting to try something new.
+I want to learn and develop my skills as a technical lead and within management as well. I see developing processes as a fine balance between creativity/agility and stability/productivity -- I think a good process can be beneficial to both, and I want to keep improving on finding that balance.
+
+### Artistry
+I hold a 1-year Ontario College Certificate in Art Fundamnetals from [Sheridan College](https://www.sheridancollege.ca/). Ever since childhood I've been a bit of an artist. I enjoy drawing, painting, and sculpture. I try my hand at the odd art/craft whenever I get a chance, and have funneled most of my artistic creativity into my game development career.
+
+### Dogs
+I am a dog enthusiast - I have five!
+I have gotten pretty interested in the basics of dog training, more out of necessity than anything else; but it is a fun hobby nonetheless. I don't compete in any dog sports, but I do enjoy a bit of training in tricks, rally-o and scent discrimination with my guys. I've also become a bit of a... seamsman? as a result of getting into sewing my own custom martingale collars for all of them.
+
+### Hiking & Camping
+There is something about being outdoors that you just can't get any other way. I love the occasional back-country camping trip with a few good friends. I've done a few decent hikes through the Rockies and always love getting out there.
+
+### Boxing & Martial Arts
+I've been training as a boxer for the past year and a half and have been loving the challenge. I've also recently taken up Brazilian Jiu-Jitsu and found it as a whole new and equally exciting challenge. They help me stay fit and keep me fresh mentally and physically. I love to share this hobby with anyone I can convince to come along to a class!
