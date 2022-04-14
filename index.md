@@ -1,5 +1,5 @@
 # Spencer Clark
-Experienced mobile game developer - 8 years in mobile games
+Experienced game programmer - 10 years in mobile games
 
  **B<span>.</span>Sc. Honours, Computer Science**; University of Saskatchewan (2012)
 
@@ -12,17 +12,18 @@ Experienced mobile game developer - 8 years in mobile games
 ## Programming Languages & Technologies
 ### Programming Languages
 - Objective-C
+- C++
 - C#
 - Java
-- C++
 - JavaScript
 
-### Game Engines, etc.
+### Game Engines, Platforms & Technology etc.
 - Cocos2d-iPhone
 - Cocos2d-x
 - Unity
 - box2d
 - GameSparks
+- BrainCloud
 - OpenGL ES
 
 ----
