@@ -76,7 +76,7 @@ Experienced game programmer - 10 years in mobile games
 
 
 > ### _Motorball ([Teaser](https://playmotorball.com/))_ 2020
->  Developed alongside _Golf Blitz_, _Motorball_ is using a similar tech stack, with a networked realtime 2D physics simulation and a GameSparks backend.
+>  Developed alongside _Golf Blitz_, _Motorball_ is using a similar tech stack, with a networked realtime 2D physics simulation and a GameSparks backend. My responsibilities included programming most of the gameplay mechanics, tuning the box2d physics, and much of the menu UI.
 
 > ### _King Chomp ([Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.elemelee))_ 2017
 >   This was a proof-of-concept / stress-test project used to test Noodlecake's internally developed netcode framework in a live setting. It is a free to play four-player realtime multiplayer game.
@@ -91,8 +91,8 @@ Experienced game programmer - 10 years in mobile games
 
 ## More About Me
 ### Career Growth
-I'm interested in continuing to grow as a programmer and also as a team member. I love getting stuck into hard problems, and I really enjoy learning new technologies when I get the chance. Part of what is great about game development is that the problems are almost always novel in some way. I have been fortunate enough to have attended GDC a few times and always come back re-energized and wanting to try something new.
-I want to learn and develop my skills as a technical lead and within management as well. I see developing processes as a fine balance between creativity/agility and stability/productivity -- I think a good process can be beneficial to both, and I want to keep improving on finding that balance.
+I'm interested in continuing to grow as a programmer and also as a team member. I love getting stuck into hard problems, and I really enjoy learning new technologies. Part of what is great about game development is that the problems are almost always novel in some way. I have been fortunate enough to have attended GDC a few times and always come back re-energized and wanting to try something new.
+I want to learn and expand my programming skills as a senior programmer. I see developing processes as a fine balance between creativity/agility and stability/productivity -- I think a good process can benefit both sides of that balance, and I want to keep improving on finding that balance.
 
 ### Artistry
 I hold a 1-year Ontario College Certificate in Art Fundamnetals from [Sheridan College](https://www.sheridancollege.ca/). Ever since childhood I've been a bit of an artist. I enjoy drawing, painting, and sculpture. I try my hand at the odd art/craft whenever I get a chance, and have funneled most of my artistic creativity into my game development career.
@@ -101,8 +101,8 @@ I hold a 1-year Ontario College Certificate in Art Fundamnetals from [Sheridan C
 I am a dog enthusiast - I have five!
 I have gotten pretty interested in the basics of dog training, more out of necessity than anything else; but it is a fun hobby nonetheless. I don't compete in any dog sports, but I do enjoy a bit of training in tricks, rally-o and scent discrimination with my guys. I've also become a bit of a... seamsman? as a result of getting into sewing my own custom martingale collars for all of them.
 
-### Hiking & Camping
-There is something about being outdoors that you just can't get any other way. I love the occasional back-country camping trip with a few good friends. I've done a few decent hikes through the Rockies and always love getting out there.
+### Hiking, Camping & Hunting
+There is something about being outdoors that you just can't get any other way. I love the occasional back-country camping trip with a few good friends. I've done a few decent hikes through the Rockies and always love getting out there. I've also been getting into hunting in recent years, and enjoy the challenge as well as the reward of having ethically harvested meat for the table.
 
 ### Boxing & Martial Arts
-I've been training as a boxer for the past year and a half and have been loving the challenge. I've also recently taken up Brazilian Jiu-Jitsu and found it as a whole new and equally exciting challenge. They help me stay fit and keep me fresh mentally and physically. I love to share this hobby with anyone I can convince to come along to a class!
+I've been thoroughly enjoying training in boxing, muay thai and brazilian jiu jitsu for the past few years. They help me stay fit and keep me fresh mentally and physically. I love to share this hobby with anyone I can convince to come along to a class!
