@@ -38,7 +38,7 @@ Experienced game programmer - 10 years in mobile games
 - Perform release builds and manage App Store/Google Play submissions and releases
 
 ### Game Programmer (2016-2019)
-- Work on various first-party titles as a general programmer using mainly C++, Objective-C, and JavaScript
+- Worked on various first-party titles as a general programmer using mainly C++, Objective-C, and JavaScript
 - Designed and implemented rendering system for networked game states with smoothing/interpolation of mispredicted game states
 - Designed and implemented box2d-based game mechanics for networked car physics
 - Implemented features touching vertical slices of game codebases, from game engine core (C++) through our custom netcode framework (C++/protocolbuffers), GameSparks cloud code (JavaScript), and client UI (C++/Objective-C)
@@ -75,7 +75,7 @@ Experienced game programmer - 10 years in mobile games
 
 
 
-> ### _Motorball ([Teaser](https://playmotorball.com/))_ Unreleased
+> ### _Motorball ([Teaser](https://playmotorball.com/))_ 2020
 >  Developed alongside _Golf Blitz_, _Motorball_ is using a similar tech stack, with a networked realtime 2D physics simulation and a GameSparks backend.
 
 > ### _King Chomp ([Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.elemelee))_ 2017
